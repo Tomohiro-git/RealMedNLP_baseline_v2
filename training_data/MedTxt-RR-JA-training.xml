@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE root SYSTEM "MedTxt.dtd">
+<root>
+<metadata>
+<name>MedTxt-RR</name>
+<dataset>training</dataset>
+<language>JA</language>
+<creator>Sociocom</creator>
+<version>1.0</version>
+<release-date>2021-09-30</release-date>
+<origin>https://sociocom.naist.jp/</origin>
+</metadata>
+<articles>
+<article id="0" title="03">
+<a>左舌区</a>に<a>気管支区域に沿った</a><d certainty="positive">consolidation</d>があります。<a>内部</a>に<d certainty="positive">気管支拡張像</d>、<d certainty="positive">consolidation</d><a>周囲</a>の<d certainty="positive">胸膜陥入</d>を伴っています。ご指摘の<d certainty="positive">肺癌</d>で矛盾しません。
+<d certainty="positive">病変</d>のサイズは<f>28mm</f>で<d>T1c</d>相当と考えます。
+</article>
+<article id="1" title="09">
+<a>右肺下葉気管支区域に沿う</a><d certainty="positive">浸潤影</d>があり、<d certainty="positive">肺癌</d>と考えます。
+<a>葉間胸膜と広く接し</a>ており、<d certainty="positive">胸膜浸潤</d>ありと考えます。
+<a>右中間気管支</a>は<d certainty="positive">腫瘤</d>により<d certainty="positive">閉塞</d>しています。<a>右肺下葉</a>に<f>広範</f>な<d certainty="positive">すりガラス影</d>を認め、<d certainty="positive">閉塞性肺炎</d>を呈しているようです。
+<a>右肺動脈、右肺静脈、大動脈弓部</a>にも<d certainty="positive">浸潤</d>があるようです。
+<a>右肺上葉</a>に<d certainty="positive">結節影</d>がありますが、<c>変化ありません</c>。
+<a>右肺門、同側縦隔、対側縦隔、対側肺門、左鎖骨上窩</a>に<d certainty="positive">リンパ節腫大</d>があり、<d certainty="positive">転移リンパ節</d>と考えます。
+<a>皮膚、肝、右副腎</a>に<d certainty="positive">多発腫瘤</d>があり、<d certainty="positive">多発転移</d>と考えます。
+以上より<d certainty="positive">肺癌</d>（<d>ｃT4N3M1ｃ</d>）と考えます。
+</article>
+<article id="2" title="12">
+<d certainty="positive">ブレ</d>があり<f>ややpoorstudy</f>です。
+<a>両肺</a>には<f>びまん性</f>に<d certainty="positive">多発結節</d>が認められます。<a>右下葉縦隔側</a>には<f>一部</f><d certainty="positive">腫瘤様陰影</d>も認められますが、<f>一元的</f>な<d certainty="suspicious">肺癌病変</d>とするならば<f>多発性</f>の<d certainty="suspicious">粘液産生性腺癌</d>を疑う所見です(<d>T4</d>)。
+<f>有意</f>な<d certainty="negative">縦隔リンパ節腫大</d>指摘できません。
+<f>有意</f>な<d certainty="negative">胸水</d>認めません。
+<a>胸椎</a>には<f>複数</f>の<d certainty="positive">造骨性腫瘤</d>が認められ、<d certainty="suspicious">転移</d>の可能性があります(<d>M1c</d>)。
+<a>肝</a>は<f>辺縁鈍</f>で<d certainty="positive">慢性肝障害</d>が示唆されますが、<f>粗大</f>な<d certainty="negative">腫瘤</d>は指摘できません。
+<a>副腎</a>に<f>明らか</f>な<d certainty="negative">腫瘤</d>は指摘できません。
+</article>
+<article id="3" title="03">
+<a>左肺舌区S4の外側を中心</a>に<f>主座</f>を置く、<f>約28mm</f>の<d certainty="positive">不整形腫瘤性病変</d>を認めます。<a>内部</a>は<d certainty="positive">浸潤影、すりガラス影</d>で<f>占められ</f>ており、<f>一部</f>に<a>細気管支</a>の<d certainty="positive">拡張像</d>が残存しています。<f>lepidic増殖パターンが優位</f>な<d certainty="suspicious">微小浸潤性腺癌</d>を疑います。<a>辺縁部</a>には<a>胸膜につながる</a><d certainty="positive">線状影</d>もみられますが、<d certainty="suspicious">炎症瘢痕、線維性変化</d>の存在を疑います。<a>胸膜</a>への<d certainty="negative">浸潤</d>を疑うような印象ではありません。<r state="other">外科的治療</r>が可能と思われます。
+</article>
+<article id="4" title="06">
+【<t-test state="executed">胸部造影CT</t-test>】
+<a>右肺下葉</a>に<f>15mm⼤</f>の<d certainty="positive">結節</d>がみられ，<a>右下葉気管⽀</a>を<d certainty="positive">閉塞</d>しています。<a>右肺下葉</a>は<d certainty="positive">無気肺</d>に陥っています。
+また，<a>気管分岐下リンパ節</a>が<f>22mm⼤</f>に<d certainty="positive">腫⼤</d>しているほか，<a>両側の縦隔リンパ節，左鎖⾻上窩リンパ節</a>にも<d certainty="positive">多発腫⼤</d>を認めます。
+以上からは<d certainty="suspicious">肺癌および多発リンパ節腫⼤</d>が疑われます。
+<a>肝，副腎，⾻</a>には<d certainty="negative">腫瘤</d>を指摘できません。
+<a>Th7椎体</a>に<d certainty="positive">減⾼</d>がみられ，<d certainty="suspicious">圧迫⾻折</d>を疑います。
+</article>
+<article id="5" title="09">
+<a>右肺下葉</a>には<a>肺門部を主体として</a><f>43mm</f>の<d certainty="positive">不整形腫瘤</d>が<c>出現</c>しており、<a>気管支</a>の<d certainty="positive">狭窄</d>を伴っています。既知の<d certainty="positive">肺癌</d>として矛盾しません(<d>T2b</d>)。<a>末梢側</a>の<d certainty="positive">陰影</d>はまずは<d certainty="suspicious">閉塞性肺炎</d>を考えますが、<d certainty="suspicious">転移</d>除外のため<cc state="other">形態フォロー</cc>をお願いします。
+<a>右肺上葉</a>には<a>胸膜直下</a>に<d certainty="positive">小結節</d>が認められますが、<timex3 type="date">10年前</timex3>から認められており、<d certainty="positive">陳旧性炎症性変化</d>と考えます。
+<a>その他肺野</a>に<f>明らか</f>な<d certainty="negative">異常陰影</d>指摘できません。
+<a>右肺門から気管分岐部、同側・対側縦隔</a>には<f>多数</f>の<d certainty="positive">病的リンパ節腫大</d>が認められ、<d certainty="positive">多発リンパ節転移</d>が示唆されます(<d>N3</d>)。
+<a>肝</a>には<f>多数</f>の<d certainty="positive">低吸収腫瘤</d>が認められ、<d certainty="positive">多発肝転移</d>が示唆されます。
+<a>右副腎</a>は<d certainty="positive">腫大</d>しており、こちらも<d certainty="suspicious">転移</d>の可能性があります。
+<a>胸壁や乳房内</a>にも<f>多数</f>の<d certainty="positive">結節影</d>が認められ、これらも一元的に<d certainty="suspicious">転移</d>の可能性が考えられます(<d>M1c</d>)。
+<f>有意</f>な<d certainty="negative">胸水</d>認めません。
+</article>
+<article id="6" title="12">
+<a>右肺下葉の内側</a>に<f>約Xcm</f>の<d certainty="positive">スピキュラ、胸膜引き攣れを伴う腫瘤性病変</d>を認めます。<d certainty="suspicious">原発性肺癌</d>を疑います。
+<a>両側肺野</a>に<f>びまん性</f>に<d certainty="positive">粒状影、結節影</d>を認めます。<a>両側肺野</a>の<d certainty="suspicious">多発肺転移</d>を疑います。
+<a>右肺門、縦隔</a>に<d certainty="positive">腫大リンパ節</d>があり、<d certainty="suspicious">リンパ節転移</d>の可能性があります。
+<a>第8～１１胸椎椎体</a>に<d certainty="positive">骨硬化性陰影</d>を認めます。<d certainty="suspicious">骨硬化性骨転移</d>を疑います。
+</article>
+<article id="7" title="06">
+<a>右肺門部</a>に、<d certainty="positive">リンパ節</d>と<f>一塊</f>となった、<f>境界不明瞭</f>な<d certainty="positive">腫瘤</d>を認めます。<d certainty="suspicious">造影効果</d>は<f>不明</f>で、サイズや<a>境界</a>は<f>不明瞭</f>です。既知の<d certainty="positive">肺癌</d>と考えます。
+<a>右中葉・下葉気管支</a>は<d certainty="positive">閉塞</d>し、<a>近傍の内腔</a>は<f>不整</f>です。<d certainty="positive">腫瘤の浸潤</d>と考えます。
+<a>中葉</a>は<d certainty="positive">含気が低下</d>し、<a>右肺下葉</a>は<f>完全</f>に<d certainty="negative">含気</d>が<c>消失</c>しています。
+T因子は<d>T2</d>と考えられます。
+<d certainty="negative">肺転移を疑う病変</d>は指摘できません。
+<a>縦隔、左鎖骨上窩</a>には<f>多発性</f>に<d certainty="positive">病的腫大リンパ節</d>を認めます。
+N因子は<d>N3</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<a>撮像範囲</a>に<f>強く</f><d certainty="negative">骨転移を疑うような骨破壊や腫瘤性病変</d>は認めません。
+他のM因子は判断できず、<d>MX</d>です。
+</article>
+<article id="8" title="12">
+<a>両側肺野</a>に<f>無数</f>の<f>不整形</f>の<d certainty="positive">小結節</d>を認めます。<f>ランダム分布</f>のように見えます。
+いずれが<f>原発</f>の<d certainty="positive">肺癌</d>か不明ですが、<d certainty="positive">原発巣</d>と<f>無数</f>の<d certainty="positive">転移</d>が<f>混在</f>した状態と考えます。
+T因子は<d>T4</d>と考えます。
+<a>肺門や縦隔、鎖骨上窩</a>に<d certainty="negative">病的腫大リンパ節</d>は認めません。
+N因子は<d>N0</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<a>撮像範囲の肝や副腎</a>に<d certainty="negative">転移を疑う病変</d>は指摘できません。
+なお、<a>肝</a>は<f>表面凹凸不整</f>で、<d certainty="positive">肝硬変</d>と考えます。
+<a>第8－11胸椎椎体</a>に<f>すりガラス状</f>の<d certainty="positive">骨硬化像</d>を認め、<d certainty="suspicious">転移</d>を疑います。
+<a>上位胸椎や腰椎の終板</a>にも<d certainty="positive">骨硬化像</d>を認めますが、これらは<d certainty="suspicious">転移あるいは変性変化</d>のいずれも考えられます。
+M因子は<d>M1c</d>と考えます。
+</article>
+<article id="9" title="13">
+<a>左肺下葉</a>の<a>S9/10領域を中心として</a>、<f>境界明瞭</f>な<f>長径7.8cm</f>の<d certainty="positive">分葉状腫瘤性病変</d>を認めます。<a>内部</a>は<f>充実性</f>ですが、<f>一部</f>に<d certainty="positive">含気</d>がみられ、<d certainty="positive">空洞形成性病変</d>と思います。<a>周囲</a>に<d certainty="positive">すりガラス影</d>もみられます。<d certainty="suspicious">原発性肺癌</d>を疑います。同病変より<a>中枢側</a>に<f>複数</f>の<d certainty="positive">結節影、腫瘤陰影</d>がみられます。<a>左肺下葉</a>の<a>気管支血管束に沿った</a>分布であり、<f>リンパ行性</f>に<d certainty="positive">浸潤</d>しています。<d certainty="positive">病変</d>は<a>左肺門から縦隔内</a>に<d certainty="positive">浸潤</d>しています。<d certainty="positive">左肺門、縦隔リンパ節転移</d>を認めます。
+<a>対側肺</a>に<d certainty="negative">肺内転移を疑う様な病変</d>はありません。
+<a>観察可能な範囲</a>で<d certainty="negative">骨転移を疑う様な病変</d>は指摘できません。
+</article>
+<article id="10" title="09">
+<a>右肺下葉から肺門部</a>に<f>連続</f>する<f>約4.3ｘ3.8cm</f>の<d certainty="positive">腫瘤性病変</d>を認めます<a>。肺動脈、右肺下葉気管支など</a>に<d certainty="positive">浸潤</d>しています<d certainty="suspicious">。原発性肺癌</d>を疑います。<a>右肺下葉</a>に<d certainty="positive">結節影</d>を<f>いくつか</f>認めます。これらは<d certainty="positive">肺転移</d>を疑います。
+<a>右肺下葉気管支</a>の<d certainty="positive">狭窄</d>が見られます。<a>右肺下葉</a>には<d certainty="positive">すりガラス様濃度上昇域</d>を認めます。<d certainty="positive">気管支狭窄</d>にともなう<d certainty="suspicious">部分無気肺、随伴性肺炎</d>などを疑います。
+<a>右肺上葉S1外層</a>に<d certainty="positive">結節影</d>を認めますが、こちらは<timex3 type="date">過去</timex3>の<t-test state="executed">CT</t-test>でもみられ、<c>変化ありません</c>。<d certainty="suspicious">良性結節性病変</d>を疑うものであり、<d certainty="negative">肺転移</d>ではなさそうです。
+<a>右肺門～上縦隔</a>にまで<f>連続</f>する<d certainty="positive">多発リンパ節腫大</d>を認めます。<d certainty="suspicious">多発リンパ節転移</d>を疑います。
+<a>両側乳房</a>に<f>大小</f>の<d certainty="positive">腫瘤性病変</d>を認めますが、<d certainty="suspicious">乳腺転移</d>の可能性があります。
+<a>肝</a>にも<d certainty="positive">多発結節影</d>を認めます。<d certainty="negative">造影効果</d>の<f>乏しい</f><d certainty="positive">腫瘍性病変</d>であり、<d certainty="suspicious">多発肝転移</d>を疑います。
+<a>右副腎</a>にも<d certainty="positive">腫瘤影</d>を認めます。<d certainty="suspicious">副腎転移</d>を疑います。
+<a>肝門部、胃小弯側、大動脈周囲のリンパ節</a>が<d certainty="positive">腫大</d>しています。<d certainty="suspicious">リンパ節転移</d>を疑います。
+<d certainty="positive">腎嚢胞</d>を認めます。
+<a>胆、膵、脾</a>などに<f>有意</f>な所見はありません。
+<a>右腹壁の皮下</a>に<d certainty="positive">結節影</d>を認めます。
+<a>骨</a>に<f>明らか</f>な<d certainty="negative">溶骨性、造骨性腫瘍</d>などは認めません。<d certainty="negative">骨転移を疑うような所見</d>はありません。
+</article>
+<article id="11" title="13">
+<a>左下葉S9を主体に</a><f>⻑径78mm</f>の<d certainty="positive">空洞を伴う腫瘤性病変</d>が認められ、既知の<d certainty="positive">肺癌部分</d>と思われます。<a>胸膜</a>との<d certainty="positive">接触</d>も<f>強く</f>、<d certainty="suspicious">浸潤</d>は否定できません。<a>中枢側</a>では<a>気管支に沿った</a><d certainty="positive">結節様陰影やすりガラス影</d>も<f>広がっ</f>ており、<f>一元的</f>な<d certainty="positive">腫瘍性病変</d>と考えます(<d>T4</d>)。
+<a>背景肺野</a>に<d certainty="positive">気腫性変化</d>が認められます。
+<a>気管分岐下</a>や<d certainty="positive">同側縦隔・肺門リンパ節</d>は<d certainty="positive">病的腫大</d>が<f>散見</f>され、<d certainty="positive">転移</d>が示唆されます(<d>N2</d>)。
+<f>有意</f>な<d certainty="negative">胸水</d>認めません。
+</article>
+<article id="12" title="03">
+<a>右上葉S3</a>に<f>⻑径28mm</f>の<f>胸膜陥凹を伴う</f><d certainty="positive">腫瘤</d>を認めます。<a>内部</a>には<d certainty="positive">気管支透亮像</d>を伴っており<a>辺縁部</a>には<d certainty="positive">すりガラス影</d>を伴っています。<d certainty="suspicious">部分充実型結節(part-solidGGN)</d>に相当する病変と思われます。<d certainty="suspicious">置換型腺癌（LPA）</d>が疑われます。T分類で<d>T1c</d>相当と思われます。
+<a>右下葉S6</a>にも<f>小さな</f><f>葉間胸膜陥凹を伴う</f><d certainty="positive">結節</d>を認めます。こちらも<d certainty="suspicious">肺癌</d>を否定できませんが<d certainty="suspicious">炎症性結節</d>との鑑別は困難です。<t-test state="other">生検</t-test>もしくは<cc state="other">厳重経過観察</cc>をお願いします。その他には<a>肺野</a>に<d certainty="negative">副腫瘍結節を疑う病変</d>を指摘できません。
+<a>鎖骨上窩、肺門部、縦隔</a>に<d certainty="negative">転移</d>を疑うような<f>類円形</f>の<d certainty="negative">リンパ節腫大</d>を指摘できません。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>撮像範囲の上腹部臓器</a>に<f>有意</f>な異常を指摘できません。
+</article>
+<article id="13" title="09">
+<a>右肺⾨部</a>を<f>占拠</f>する<f>⻑径43mm⼤</f>の<d certainty="positive">腫瘤</d>があり，既知の<d certainty="positive">肺癌</d>と考えます。
+また，<a>右肺下葉</a>には<d certainty="suspicious">satellitelesion</d>と思われる<d certainty="positive">腫瘤</d>がみられ，<a>右下葉気管⽀内部</a>を<f>占拠</f>する<d certainty="positive">結節</d>および<a>右肺下葉</a>の<d certainty="positive">すりガラス様濃度上昇</d>もあり，こちらも<d certainty="suspicious">腫瘍の進展</d>をみている可能性があります。
+<a>右肺上葉の内層と胸膜直下</a>にそれぞれ<d certainty="positive">結節</d>を認めますが，こちらは<timex3 type="date">10年前</timex3>と<c>著変がなく</c>，<d certainty="positive">良性病変</d>と考えます。
+<d certainty="positive">両側肺⾨部〜気管分岐下〜両側縦隔リンパ節転移</d>があり，<d certainty="positive">原発巣</d>と<f>⼀塊</f>となっています。
+また，<d certainty="positive">両側鎖⾻上窩リンパ節</d>も<d certainty="positive">腫⼤</d>しており，こちらも<d certainty="positive">転移</d>と考えます。
+さらに，<a>両側乳房，肝，右副腎，腹部⽪下</a>にそれぞれ<d certainty="positive">結節</d>がみられ，いずれも<d certainty="positive">転移</d>と考えます。
+<d certainty="negative">⾻転移</d>は指摘できません。
+</article>
+<article id="14" title="03">
+<a>左肺上葉S4</a>に<f>28mm</f>の<d certainty="positive">結節影</d>を認めます。<a>辺縁</a>に<d certainty="positive">すりガラス影</d>を認め、<a>内部</a>には<d certainty="positive">気管支透亮像</d>を認めます。<d certainty="suspicious">肺腺癌</d>（<d>T1c</d>）を疑う所見です。
+<a>縦隔、肺門、腋窩など</a>に<d certainty="negative">病的リンパ節腫大</d>は認めません。
+<d certainty="negative">心拡大</d>ありません。
+<d certainty="negative">胸水</d>みられません。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="15" title="01">
+<a>左肺上葉の外側</a>に<f>主座</f>を置く、<f>約18mm</f>の<f>境界明瞭</f>な<f>類円形</f>の<d certainty="positive">すりガラス状陰影（lepidic pattern）</d>を認めます。<d certainty="suspicious">充実性部分</d>は<f>不明</f>です。<f>lepidicな増殖パターン</f>が主体であり、<d certainty="negative">微小浸潤性
+陰影</d>の指摘はできません。<d certainty="suspicious">原発性肺癌、上皮内腺癌（AIS）</d>を疑います。<timex3 type="date">前回</timex3>画像と比較して、形
+態、大きさ、内部性状などには<c>ほとんど変化がみられません</c>。<f>進行が緩徐</f>な<d certainty="suspicious">病変</d>と思われます。
+</article>
+<article id="16" title="11">
+<a>右肺尖部</a>に<f>大きな</f><d certainty="positive">腫瘤</d>を認めます。<d certainty="positive">腫瘤</d>は<a>Th2、Th3椎体および右第2-3肋骨</a>に
+<d certainty="positive">浸潤し、骨破壊</d>を呈しています。<d certainty="suspicious">Pancoast腫瘍</d>（<d>T4</d>)を疑います。<f>明らか</f>な<d certainty="negative">リンパ節転移を示唆する所見</d>はみられません。
+<d certainty="negative">心拡大</d>ありません。
+<d certainty="negative">胸水</d>みられません。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="17" title="06">
+<a>右下葉の中枢側</a>に<d certainty="positive">腫瘤性病変</d>を認めます。<d certainty="suspicious">原発性肺癌</d>を疑います。<a>右肺下葉末梢</a>の<d certainty="negative">含気</d>が<c>消失</c>し、<d certainty="positive">無気肺</d>を形成しています。<f>腫瘍随伴性</f>の<d certainty="suspicious">肺炎</d>を合併しているようです。<d certainty="positive">肺炎や無気肺</d>の影響で、<d certainty="positive">腫瘍</d>の<f>正確な進展範囲の特定は困難</f>です。
+<a>右肺門から上縦隔内にかけて</a><f>多数</f>の<d certainty="positive">結節影</d>を認めます。これらはいずれも<d certainty="suspicious">リンパ節転移</d>を疑いま
+す。
+</article>
+<article id="18" title="13">
+<a>左肺下葉</a>に<f>巨大</f>な<d certainty="positive">腫瘤性病変</d>を認めます。<d certainty="positive">腫瘍</d>と<f>連続</f>して、<a>気管支区域に沿って</a><d certainty="positive">濃度上昇域</d>があります。<a>左気管支</a>は<d certainty="positive">腫瘍</d>に<f>囲まれ</f>ており、<d certainty="positive">浸潤</d>と考えます。
+<a>同側肺門、縦隔</a>に<d certainty="positive">リンパ節腫大</d>があり、<d certainty="positive">転移</d>と考えます。
+以上より<d certainty="positive">左肺下葉肺癌</d>（<d>T4N2</d>)と考えます。
+</article>
+<article id="19" title="09">
+<a>右肺門部</a>に<f>径43mm大</f>の<f>不整</f>な<d certainty="positive">腫瘤性病変</d>を認め<d certainty="suspicious">肺癌</d>が疑われます。<a>右中下葉気管支</a>は<d certainty="positive">浸潤</d>により<d certainty="positive">高度狭窄</d>し、<a>右下葉</a>には<d certainty="suspicious">肺炎</d>を疑う<d certainty="positive">スリガラス影</d>が広がっています。<a>右上葉気管支</a>も<d certainty="positive">狭窄</d>しており<d certainty="suspicious">浸潤</d>が疑われます。
+<a>右下葉</a>に<f>不整</f>な<d certainty="positive">結節影</d>を認め<d certainty="suspicious">肺内転移</d>の可能性があります。<a>右上葉</a>にも<d certainty="positive">小結節影</d>を認めますが、こちらは<timex3 type="date">以前</timex3><t-test state="executed">CT</t-test>でも認めており<d certainty="suspicious">良性結節</d>を疑います。
+<a>縦隔や左鎖骨上窩、左胃動脈領域、肝門部、傍大動脈</a>に<d certainty="positive">腫大リンパ節</d>を<f>散見</f>し<d certainty="suspicious">多発リンパ節転移</d>が疑われます。
+<a>両側乳房</a>に<d certainty="positive">結節</d>を<f>散見</f>します。<d certainty="suspicious">転移や原発性乳癌</d>が鑑別に挙がります。
+<a>肝内</a>に<d certainty="positive">hypovasculartumor</d>を<f>散見</f>します。<d certainty="suspicious">多発肝転移</d>が疑われます。
+<a>右副腎</a>に<d certainty="positive">腫瘤性病変</d>を認めます。<d certainty="suspicious">転移や腺腫</d>が鑑別に挙がります。
+<a>皮下</a>に<d certainty="positive">多発結節</d>を認め<d certainty="suspicious">皮膚転移</d>が疑われます。
+<d certainty="positive">左腎嚢胞</d>を認めます。
+<a>その他の腹部臓器</a>に特に問題となる異常は指摘できません。
+<d certainty="suspicious">子宮筋腫</d>が疑われます。
+<d certainty="negative">胸腹水</d>はありません。
+</article>
+<article id="20" title="03">
+<a>左舌区</a>に<f>径28mm大</f>の<d certainty="positive">不整形陰影</d>を認めます。<d certainty="positive">spiculaや胸膜嵌入像</d>を伴っており<d certainty="suspicious">肺癌</d>が疑われます。
+<a>右下葉や左上葉</a>に<d certainty="positive">小結節影</d>を認めます。まずは<d certainty="suspicious">炎症性変化</d>を疑います。
+<a>縦隔や肺門</a>に<f>有意</f>な<d certainty="negative">リンパ節腫大</d>は指摘できません。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="21" title="11">
+<a>両肺</a>には<a>辺縁主体</a>に<d certainty="positive">気腫性変化</d>が<f>目立ちます</f>。
+<a>右肺尖部</a>には<f>○×○cm大</f>の<f>不整形</f>の<d certainty="positive">肺内腫瘤</d>を認め、<d certainty="suspicious">肺癌</d>を疑います。<d certainty="positive">腫瘤</d>は<a>右第2・3肋骨、Th2・3椎体</a>に<d certainty="positive">浸潤</d>し、<a>Th2レベル</a>では<a>脊柱管内</a>への<d certainty="suspicious">進展</d>も疑われます(<d>cT4</d>)。
+<a>右肺中葉や両肺下葉外層</a><f>優位</f>の<d certainty="positive">小結節</d>は<f>多く</f>が<f>経気道的</f>な分布を呈しており<d certainty="suspicious">炎症性結節</d>を疑いますが、<timex3 type="date">初回</timex3><t-test state="executed">CT</t-test>であり、増大ないか<cc state="other">経過</cc>を追って下さい。その他、<a>肺・縦隔</a>に特記所見ありません。
+<f>有意</f>な<d certainty="negative">リンパ節腫大</d>はありません(※実際は「<d certainty="positive">右肺門リンパ節</d>は<d certainty="positive">腫大</d>しており、<d certainty="suspicious">転移</d>を疑います」と記載)。
+<d certainty="negative">胸水</d>はありませんが、<d certainty="suspicious">炎症性変化</d>を疑う<f>軽度</f>の<d certainty="positive">左胸膜肥厚</d>を認めます。
+Impression(記載箇所あれば)：<d certainty="suspicious">左上葉肺癌</d>(<d>cT4N0MX</d>)疑い※<t-test state="executed">MRI</t-test>での<d certainty="suspicious">脳転移</d>は考慮せず
+</article>
+<article id="22" title="02">
+<timex3 type="date">3年前、1年前</timex3>の<t-test state="executed">CT</t-test>と比較しました。
+<a>左肺下葉S6</a>の<d certainty="positive">GGN</d>は<f>⻑径9mm→12mm大</f>と<c>増大</c>しており、<a>内部</a>に<f>僅か</f>に<d certainty="positive">solidpart</d>を認めます。経
+過からは<d certainty="suspicious">上皮内腺癌(AIS)、微小浸潤腺癌(MIA)などの腫瘍性病変</d>が疑われます。<t-test state="other">組織学的検索</t-test>をされて下さい。
+<a>上肺野</a><f>優位</f>に<f>軽度</f>の<d certainty="positive">気腫性変化</d>を認めます。<a>右肺上葉や両肺下葉</a>に<f>散見</f>する<d certainty="positive">小結節</d>や<a>右肺底部</a>の<d certainty="positive">索状影</d>は<d certainty="suspicious">陳旧性炎症性変化</d>を疑います。
+その他、<a>肺・縦隔</a>に<f>新たな</f>異常を認めません。
+<f>有意</f>な<d certainty="negative">リンパ節腫大や胸水</d>は認めません。
+Impression(記載箇所あれば)：<a>左肺下葉</a><d certainty="positive">GGN</d>(<d certainty="suspicious">AISやMIA</d>など疑い)
+</article>
+<article id="23" title="06">
+<a>右肺門部</a>に<d certainty="positive">軟部腫瘤</d>を認め、<d certainty="suspicious">肺癌</d>が疑われます。これにより<a>右中下葉気管支</a>は<d certainty="positive">閉塞</d>し、<a>中下葉</a>は<d certainty="positive">無気肺</d>となっています。<a>右上葉気管支</a>も<d certainty="positive">狭窄</d>して見え<d certainty="suspicious">浸潤</d>している可能性があります。<a>気管分岐部</a>への<d certainty="negative">進展</d>はなさそうです。
+他、<a>含気肺部分</a>に<f>明らか</f>な<d certainty="negative">異常陰影</d>は指摘できません。
+<a>縦隔や左鎖骨上窩</a>に<d certainty="positive">腫大リンパ節</d>を<f>散見</f>し<d certainty="suspicious">転移</d>が疑われます。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="24" title="12">
+<a>右下葉S6</a>に<f>分葉状</f>の<d certainty="positive">spicula</d>を伴う<d certainty="positive">腫瘤</d>を認め、<d certainty="suspicious">原発性肺癌</d>を疑います。<a>両側肺野</a>に<f>不規則に分布</f>する<f>不整形</f>の<d certainty="positive">多発小結節</d>を認めます。<a>両側肺野</a>の<d certainty="suspicious">多発副腫瘍結節</d>を疑います。T分類で<d>T4</d>相当と思われます。
+<f>有意なサイズ</f>の<f>類円形</f>の<d certainty="negative">鎖骨上窩、縦隔、肺門部リンパ節腫大</d>を指摘できません。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>撮像範囲の上腹部臓器</a>に<f>有意</f>な異常を指摘できません。
+<a>胸腰椎</a>には<d certainty="positive">骨硬化性変化</d>が<f>散見</f>されます。<d certainty="positive">骨転移</d>が示唆されます。M分類で<d>M1c</d>に相当すると思われます。
+</article>
+<article id="25" title="01">
+<a>肺野背景</a>に<f>軽度</f>の<d certainty="positive">気腫性変化</d>を認めます。
+<a>肺尖部</a>には<d certainty="positive">ブラ</d>を認めます。
+<a>左肺上葉</a>に<f>やや分葉状</f>を呈する、<f>境界明瞭</f>な<d certainty="positive">すりガラス状陰影</d>を認めます。<a>中心</a>には<f>小さい</f><d certainty="positive">高吸収域</d>を認めます。<d certainty="positive">すりガラス影</d>の<f>⻑径は18mm</f>です。<d certainty="suspicious">高分化腺癌</d>を疑う所見ですが、サイズ変化をみるために、まずは<timex3 type="duration">1,2ヶ月程度</timex3>での<t-test state="other">CT再検</t-test>をお願いします。<d certainty="suspicious">肺癌</d>とした場合、<d>T1</d>と考えます。
+同病変は<a>胸膜とは離れて</a>います。
+<d certainty="suspicious">肺癌</d>とした場合、積極的に<d certainty="negative">肺転移を疑う病変</d>は指摘できません。
+また<a>右肺下葉</a>にも<d certainty="positive">すりガラス影</d>が<f>散見</f>されます。これらは<f>境界不明瞭</f>であり、<d certainty="suspicious">腫瘍性病変</d>よりも<d certainty="suspicious">炎症性変化</d>を疑います。上記病変と併せて<cc state="other">サイズフォロー</cc>をお願いします。
+<a>両肺下葉背側</a>には<d certainty="suspicious">陳旧性炎症性変化</d>と思われる、<f>矩形</f>の<d certainty="positive">小結節</d>を認めます。
+<a>左肺下葉</a>には<d certainty="positive">索状影</d>を認めます。<d certainty="positive">陳旧性炎症性変化</d>と考えます。
+<a>縦隔・肺門リンパ節</a>に<d certainty="negative">病的腫大</d>は認めません。
+<d certainty="negative">胸水貯留</d>はありません。
+<d certainty="positive">食道裂孔ヘルニア</d>があります。
+<a>副腎</a>に<d certainty="negative">転移を疑う結節</d>は指摘できません。
+<t-key>軟部条件</t-key>がありませんので、<d certainty="general">肝転移</d>の有無は評価困難です。
+</article>
+<article id="26" title="02">
+<a>肺下葉</a>に<f>12mm</f>の<f>限局性</f>の<d certainty="positive">すりガラス影</d>を認めます。<a>内部</a>に<f>明か</f>な<d certainty="negative">充実部分</d>は指摘出来ません。
+<d certainty="positive">肺腺癌</d>（<d>Tis</d>相当）と考えます。
+</article>
+<article id="27" title="03">
+【<t-test state="executed">胸部単純CT</t-test>】
+<a>左肺⾆区S4</a>に<f>約24mm⼤</f>の<f>不整形</f>な<d certainty="positive">充実性結節</d>がみられ，<a>内部</a>に<d certainty="positive">気管⽀拡張</d>を伴っています。<d certainty="suspicious">肺癌</d>の可能性が疑われます。<cc state="other">精査</cc>をご検討ください。
+<a>左肺上葉S1+2の胸膜直下</a>にも<d certainty="positive">すりガラス結節</d>を認めます。こちらも<d certainty="suspicious">炎症性変化</d>のほかに<d certainty="suspicious">異形成や早期腺癌</d>も鑑別にあがり，慎重な<cc state="other">followup</cc>が望まれます。
+<f>有意</f>な<d certainty="negative">リンパ節腫⼤</d>はありません。
+<a>肝，副腎，⾻</a>には<d certainty="negative">腫瘤</d>を認めません。
+<a>背景肺</a>には<d certainty="positive">気腫</d>が<f>⽬⽴ち</f>ます。
+<a>右肺中葉S5</a>に<d certainty="positive">多⾓形⼩結節</d>を認めますが，<d certainty="suspicious">良性病変</d>と思われます。
+<a>右肺下葉S6</a>に<d certainty="positive">索状影</d>があり，<d certainty="suspicious">限局性の炎症</d>を疑います。
+<d certainty="positive">動脈硬化</d>を認めます。<a>撮像内の上腹部臓器</a>には異常を認めません。
+</article>
+<article id="28" title="12">
+<a>両肺</a>には<f>ランダムな分布</f>で<d certainty="positive">多発結節</d>を認めており、<d certainty="suspicious">肺転移</d>を疑います(<d>cT4</d>)。<a>右肺下葉</a>には<f>○×○cm大</f>の<a>周囲</a>に<d certainty="positive">spiculation</d>を伴う<d certainty="positive">腫瘤</d>を認め、<d certainty="positive">原発巣</d>と思われます。<a>両肺尖部</a>では<f>わずか</f>に<d certainty="positive">リンパ路の発達</d>も見られますが、<d certainty="suspicious">癌性リンパ管症</d>と断定できる程ではありません。
+<a>縦隔</a>には特記所見ありません。
+<a>右肺門や縦隔</a>には<d certainty="suspicious">陳旧性結核</d>等を疑う<d certainty="positive">石灰化リンパ節</d>は認めるものの、<f>有意</f>な<d certainty="negative">腫大</d>は指摘できない様です(<d>cN0</d>)。
+<a>Th8-11椎体</a>には<d certainty="positive">骨硬化</d>を認め、（何らかの<r state="other">放射線</r><timex3 type="med">治療後</timex3>などでなければ）<d certainty="suspicious">骨転移</d>を疑います(<d>cM1c</d>)。
+Impression(記載箇所あれば)：<d certainty="suspicious">右下葉肺癌</d>(<d>cT4N0M1c</d>)疑い：<d certainty="suspicious">多発肺転移・胸椎転移</d>
+</article>
+<article id="29" title="13">
+<a>両肺</a>には<f>軽度</f>の<d certainty="positive">気腫性変化</d>、<a>左肺上葉外側</a>に<d certainty="positive">bulla</d>を認めます。
+<a>左肺下葉</a>には<a>内部</a>に<d certainty="positive">空洞</d>を伴う<f>⻑径7.8cm大</f>の<d certainty="positive">不整形腫瘤</d>を認め、<a>同一肺葉内</a>には<d certainty="suspicious">副結節</d>を疑う<f>複数</f>の<d certainty="positive">病変</d>を認めます(<d>cT4</d>)。<d certainty="positive">腫瘤</d>は<a>胸膜と広範に接し</a>ており、<a>胸膜外脂肪層</a>も<f>一部</f><d certainty="positive">途絶</d>が見られ、<d certainty="suspicious">壁側胸膜浸潤</d>を疑います。<a>肋骨</a>への<d certainty="suspicious">浸潤</d>は<f>はっきりしません</f>。<d certainty="positive">腫瘤</d>は<a>横隔膜とも一部接し</a>ていますが、<d certainty="suspicious">浸潤所見</d>は<f>はっきりしません</f>。
+<a>左肺門や気管分岐下や大動脈下などの同側</a>の<d certainty="positive">縦隔リンパ節</d>の<d certainty="positive">腫大</d>を認め、<d certainty="suspicious">転移</d>を疑います(<d>cN2</d>)。
+その他、<a>肺・縦隔</a>に特記所見ありません。<d certainty="negative">胸水</d>はありません。
+<d certainty="positive">肝嚢胞、軽度脾腫</d>を認めます。
+その他、<a>撮像内の腹部</a>に特記所見ありません。
+Impression(記載箇所あれば)：<d certainty="suspicious">左下葉肺癌</d>(<d>cT4N2MX</d>)疑い
+</article>
+<article id="30" title="13">
+<a>両側肺尖部</a>には<d certainty="positive">ブラ</d>が<f>散見</f>されます。
+<a>右下葉S9</a>に<f>主座</f>を置く<f>⻑径78mm</f>の<f>不整形</f>の<d certainty="positive">腫瘤</d>が認められます。<a>内部</a>に<d certainty="positive">空洞</d>を形成しています。<d certainty="suspicious">原発性肺癌</d>を疑います。<d certainty="positive">腫瘤</d>は<a>外側</a>で<a>胸壁に広範囲に接し</a>ており、<a>胸膜外脂肪層</a>の<d certainty="positive">途絶</d>が認められます。<d certainty="positive">胸壁浸潤</d>が示唆され、T分類で<d>T4</d>相当と思われます。<a>左下葉</a>には<f>不整形</f>の<d certainty="positive">小結節</d>が<f>散見</f>され、<d certainty="suspicious">副腫瘍結節</d>を疑います。
+<a>左肺門部リンパ節、#5,#7縦隔リンパ節</a>が<d certainty="positive">腫大</d>しており<d certainty="suspicious">転移</d>を疑います。N分類で<d>N2</d>相当と思われます。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>撮像範囲の上腹部臓器</a>に<f>有意</f>な異常を指摘できません。
+</article>
+<article id="31" title="11">
+<a>背景肺野</a>に<f>著明</f>な<d certainty="positive">気腫状変化</d>が見られます。<f>長期</f>にわたる<d certainty="suspicious">重喫煙歴</d>を疑い、<d certainty="suspicious">肺癌</d>発生のリスクが高い状態を背景に疑います。
+<a>右肺上葉を中心</a>として、<f>約ｘcm</f>の<f>境界明瞭</f>な<f>分葉状</f>の<d certainty="positive">腫瘤性病変</d>を認めます。<d certainty="suspicious">原発性肺癌</d>を疑います。<a>肺尖部から縦隔、後方胸壁</a>などに<d certainty="positive">浸潤</d>しています。<a>椎体右側、右肋骨</a>などにも<d certainty="positive">溶骨性変化</d>があり、<a>骨</a>への<d certainty="positive">浸潤</d>もみられます。
+<a>リンパ節</a>の<f>有意</f>な<d certainty="negative">腫大</d>は指摘できません。<d certainty="negative">リンパ節転移を疑う所見</d>は指摘できません。
+<a>観察可能な範囲</a>で<d certainty="negative">遠隔転移を疑う所見</d>はありません。
+その他、<a>観察範囲内</a>に<f>明らか</f>な<d certainty="negative">異常所見</d>を認めません。
+</article>
+<article id="32" title="09">
+<a>右肺門部</a>に<f>長径43mm</f>の<f>境界不明瞭</f>な<d certainty="positive">腫瘤</d>を認めます。
+<f>明らか</f>な<d certainty="negative">縦隔浸潤</d>はないように見えます。
+<a>右中葉・下葉気管支</a>は<a>中枢側</a>で<d certainty="positive">高度狭窄</d>していますが、<a>末梢</a>の<d certainty="positive">含気</d>は保たれています。
+<a>右肺下葉</a>には<a>末梢</a>に<d certainty="suspicious">副腫瘍結節</d>を疑う<d certainty="positive">不整形結節</d>を認めます。
+<a>右肺下葉末梢</a>には<d certainty="positive">すりガラス影</d>を認めますが、<d certainty="positive">腫瘤や粘液栓による閉塞性肺炎</d>と考えます。
+<a>右肺上葉</a>にも<a>中枢側と胸膜下</a>に<d certainty="positive">結節</d>を認めますが、これらは<timex3 type="date">10年前</timex3>から指摘されているようで、<d certainty="positive">良性病変</d>と考えます。
+T因子は<d>T3</d>と考えます。
+<a>右肺門リンパ節</a>は<d certainty="positive">腫瘤</d>と<f>一塊</f>となっており、<f>累々</f>と<d certainty="positive">腫大</d>しています。
+<a>その他の縦隔、両側鎖骨上窩リンパ節</a>にも<d certainty="positive">病的腫大リンパ節</d>を<f>多数</f>認めます。
+N因子は<d>N3</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<a>肝内</a>に<f>多発性</f>の<d certainty="positive">腫瘤</d>を認めます。<t-test state="negated">単純CT</t-test>が無く、造影効果は判断できませんが、一元的に<d certainty="positive">転移</d>と考えます。
+<a>右副腎</a>にも<d certainty="positive">腫瘤</d>を認めます。こちらも<t-test state="negated">単純</t-test>の情報がなく、鑑別困難ですが、やはり<d certainty="suspicious">転移</d>の可能性が高いと考えます。
+<a>骨盤内右側</a>に<d certainty="positive">腫瘤</d>を認めます。<d certainty="suspicious">右卵巣転移</d>を疑います。
+<a>肝門部や腹腔動脈周囲、傍大動脈</a>に<d certainty="positive">病的腫大リンパ節</d>を<f>多数</f>認め、<d certainty="positive">転移</d>と考えます。
+<a>腹腔内臓器</a>にその他の<d certainty="negative">転移</d>は指摘できません。
+<d certainty="negative">腹水貯留</d>はありません。
+<a>両側乳房内や腹壁・胸壁の脂肪織</a>に<f>多発性</f>の<d certainty="positive">腫瘤</d>を認め、これらも一元的に<d certainty="suspicious">転移</d>の可能性が高いと考えます。
+M因子は<d>M1c</d>と考えます。
+</article>
+<article id="33" title="13">
+<a>左肺下葉胸膜下</a>に<f>長径78mm</f>の<d certainty="positive">不整形腫瘤</d>を認めます。既知の<d certainty="positive">肺癌</d>と考えます。
+<d certainty="positive">腫瘤と胸膜との間の脂肪層が消失</d>しており、<d certainty="suspicious">胸膜浸潤</d>を疑います。
+<a>左肺下葉</a>には<d certainty="positive">副腫瘍結節</d>と思われる<d certainty="positive">不整形結節</d>を<f>多数</f>認めます。
+T因子は<d>T4</d>と考えます。
+<a>他肺葉</a>に<d certainty="negative">転移を疑う結節</d>は指摘できません。
+<a>両側肺尖部</a>には<d certainty="positive">ブラ</d>を認めます。
+<a>左肺門部や気管分岐下、同側縦隔</a>に<f>多発性</f>に<d certainty="positive">病的腫大リンパ節</d>を認め、<d certainty="positive">転移</d>と考えます。
+N因子は<d>N2</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<a>撮像範囲</a>に<d certainty="negative">強く骨転移を疑う骨破壊や腫瘤影</d>は認めません。
+その他の<d certainty="negative">遠隔転移</d>は指摘できません。
+M因子は<d>M0</d>と考えます。
+</article>
+<article id="34" title="11">
+<a>右肺尖部</a>に<f>巨大</f>な<d certainty="positive">腫瘤性病変</d>を認めます。
+<a>右第1−3肋骨</a>に<d certainty="positive">腫瘍</d>は<d certainty="positive">浸潤</d>を受けており、<d certainty="positive">胸壁浸潤</d>と考えます。
+<a>Th2-3椎体</a>に<d certainty="positive">浸潤</d>もあります。
+<a>両肺下葉</a>に<d certainty="positive">多発結節</d>を認め、<d certainty="positive">多発肺内転移</d>と考えます。
+以上より、<d>cT4N0M1</d>と考えます。
+</article>
+<article id="35" title="01">
+<a>左上葉</a>に<f>径18mm大</f>の<d certainty="positive">SSN</d>を認めます<d certainty="suspicious">。AAHやAIS</d>の可能性があります。
+<a>右下葉</a>にも<d certainty="positive">GGN</d>を<f>散見</f>します。<d certainty="suspicious">炎症性変化</d>かもしれませんが、<cc state="other">フォロー</cc>にて変化をご確認ください。
+<a>左下葉</a>に<d certainty="positive">線状索状影</d>を認め<d certainty="suspicious">陳旧性炎症性変化</d>が疑われます。
+<a>縦隔や肺門</a>に<f>有意</f>な<d certainty="positive">リンパ節腫大</d>は指摘できません。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="36" title="06">
+<a>右肺下葉肺門部</a>にて<t-test state="executed">造影CT</t-test>で<f>やや濃染の弱い</f><d certainty="positive">腫瘤影</d>を認めます。その<a>末梢</a>は<d certainty="positive">無気肺</d>を呈しています。
+<d certainty="suspicious">肺門部肺癌</d>（<d>T2</d>）を疑います。
+<a>気管分岐下リンパ節、大動脈傍リンパ節、鎖骨上窩リンパ節</a>に<d certainty="positive">腫大したリンパ節の集簇</d>を認めます。<d>N3</d>と思われます。
+<d certainty="negative">心拡大</d>みられません。
+<d certainty="negative">胸水</d>みられません。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="37" title="02">
+<a>右下葉S6</a>に<f>12mm大</f>の<f>比較的境界明瞭</f>な<d certainty="positive">pureGGN</d>が認められます。<timex3 type="date">1年前</timex3>は<f>⻑径9mm程度</f>であり、<c>増大傾向</c>が認められます。<f>明らか</f>な<d certainty="negative">solidcore</d>の<c>出現</c>は指摘できませんが、経過を加味すると<d certainty="suspicious">AAH/AIS</d>の可能性が考えられる所見ですので、各種検査所見ともあわせた<cc state="other">精査</cc>を検討ください。
+<a>やや尾側の右下葉背側</a>には<f>不整形</f>の<d certainty="positive">すりガラス影</d>が<c>出現</c>しています。こちらは<d certainty="suspicious">炎症性変化</d>かもしれませんが、あわせて<cc state="other">経過観察</cc>をお願いします。
+<a>左肺下葉</a>には<a>胸膜直下</a>に<d certainty="positive">陳旧性炎症性変化と思われる小結節</d>を認めます。
+<a>上肺野</a>には<f>軽度</f>の<d certainty="positive">気腫性変化</d>を認めます。
+<a>その他肺野</a>に<f>粗大</f>な<d certainty="negative">腫瘤や浸潤影</d>は指摘できません。
+<f>有意</f>な<d certainty="negative">縦隔リンパ節腫大や胸水</d>認めません。
+</article>
+<article id="38" title="11">
+<a>背景肺</a>には<d certainty="positive">気腫性変化</d>を認めます。
+<a>右肺尖部</a>に<f>大きな</f><d certainty="positive">腫瘤性病変</d>を認め<d certainty="suspicious">肺癌</d>が疑われます。<a>右第2,3肋骨やTh2,3椎体</a>に<d certainty="positive">破壊像</d>を伴っており<d certainty="suspicious">浸潤</d>が疑われます。
+<a>両肺野</a>に<d certainty="positive">小結節影</d>を<f>散見</f>します。<d certainty="suspicious">炎症性</d>でも矛盾しませんが、<d certainty="suspicious">転移</d>も否定できないため<cc state="other">フォロー</cc>にて変化をご確認ください。
+<a>縦隔や肺門</a>に<f>有意</f>な<d certainty="negative">リンパ節腫大</d>は指摘できません。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="39" title="03">
+<a>左肺上区S3</a>の既知の<d certainty="positive">肺腺癌病変</d>は<f>⻑径2.8cm大</f>で、<f>一部</f><d certainty="positive">胸膜嵌入像</d>も見られますが、<d certainty="negative">胸膜浸潤の所見</d>は認めません(<d>cT1c</d>)。
+他に<a>左肺上区S1+2や右肺下葉S6</a>にも<a>胸膜面と連続</a>する<d certainty="positive">結節影</d>を認めますが、こちらも<d certainty="suspicious">腫瘍性病変</d>は否定できず、<cc state="other">経過観察</cc>をされて下さい。
+<a>両肺</a>には<f>中等度</f>の<d certainty="positive">気腫性変化</d>を認めます。
+その他、<a>肺・縦隔</a>に特記所見ありません。
+<f>有意</f>な<d certainty="negative">リンパ節腫大や胸水</d>は認めません(<d>cN0</d>)。
+<a>大動脈壁</a>の<d certainty="positive">石灰化</d>を認めます。
+<a>撮像内の腹部</a>に特記所見ありません。
+Impression(記載箇所あれば)：<d certainty="positive">左上葉肺癌</d>(<d>cT1cN0MX</d>)
+</article>
+<article id="40" title="01">
+<a>左上葉S1+2外側</a>に<a>胸膜に接する</a><f>⻑径18mm</f>の<f>分葉状</f>の<d certainty="positive">部分充実型結節(part-solidGGN)</d>を認めます。
+<d certainty="positive">充実部</d>は<f>径()mm</f>であり、<d certainty="suspicious">上皮内腺癌（AIS）、微少浸潤性腺癌（MIA）、置換型腺癌（LPA）</d>が鑑別に挙がります。T分類で<d>T1mi</d>相当と思われます。<a>両側下葉S6</a>に<d certainty="positive">小結節</d>を認めますが形態的には<d certainty="suspicious">陳旧性炎症性結節などの良性結節</d>を疑います。
+<a>左肺底部</a>には<d certainty="positive">索状影</d>を認め、<d certainty="suspicious">炎症瘢痕</d>を疑います。
+<f>明らか</f>な<d certainty="negative">副腫瘍結節を疑うような肺内結節</d>を指摘できません。
+<d certainty="negative">活動性肺炎を疑うような肺野の浸潤影</d>を認めません
+</article>
+<article id="41" title="12">
+<a>右肺下葉S6</a>に<d certainty="positive">腫瘤性病変</d>を認めます。
+<a>両肺</a>に<f>びまん性</f>に<d certainty="positive">多発結節</d>を認めます。<d certainty="positive">多発肺内転移</d>と考えます。
+<a>両側鎖骨上窩</a>に<f>round</f>な<d certainty="positive">リンパ節</d>を認めます。<f>有意</f>な<d certainty="negative">腫大</d>ではありませんが、<d certainty="suspicious">転移</d>を疑います。
+<a>Th9-11椎体</a>に<d certainty="positive">骨硬化像</d>があり、<d certainty="positive">多発骨転移</d>と考えます。
+以上より<d>cT4N3M1c</d>と考えます。
+</article>
+<article id="42" title="06">
+<a>両肺</a>には<f>軽度</f>の<d certainty="positive">気腫性変化</d>を認めます。
+<a>右肺下葉の肺門から肺葉内</a>を<f>充満</f>する<f>増強効果の乏しい</f><d certainty="positive">軟部影</d>を認め、<a>肺門部</a>には<f>僅か</f>に<d certainty="positive">増強される部分</d>が見られます。正確な<f>腫瘍径の評価は困難</f>ですが、<d certainty="suspicious">肺門部肺癌</d>が疑われ、<a>末梢</a>の<d certainty="positive">増強不良域</d>は<d certainty="suspicious">粘液栓</d>を疑います。<a>右下葉気管支</a>は<d certainty="positive">腫瘍により狭小化</d>し、<a>下葉末梢</a>は<f>閉塞性</f>の<d certainty="positive">部分無気肺</d>を呈しています(<d>cT2</d>)。<a>右肺上・中葉</a>は<d certainty="positive">過膨張気味</d>となっています。<a>右肺動静脈</a>は<a>腫瘍近傍</a>で<d certainty="positive">狭小化</d>しています。
+他に<a>肺野</a>に<d certainty="negative">副結節</d>などの異常は指摘できません。
+<a>右肺門や気管分岐下の縦隔</a>の<d certainty="positive">腫大リンパ節</d>は<d certainty="positive">腫瘍</d>と<f>一塊</f>となり、<a>右主気管支〜中間気管支や左主気管支</a>は<f>広く接し</f>ています。また<a>対側を含む上縦隔リンパ節</a>の<d certainty="positive">腫大</d>を認め、<d certainty="positive">左鎖骨上窩リンパ節腫大</d>も見られます(<d>cN3</d>)。
+<d certainty="negative">胸水</d>はありません。
+<a>撮像内</a>で<f>粗大</f>な<d certainty="negative">骨病変</d>は認めません。
+Impression(記載箇所あれば)：<d certainty="suspicious">右肺門部肺癌</d>(<d>cT2N3MX</d>)：<a>末梢</a>の<d certainty="positive">閉塞性無気肺</d>
+</article>
+<article id="43" title="02">
+<a>右下葉</a>に<f>径12mm大</f>の<d certainty="positive">GGN</d>を認め、<a>内部</a>には<f>小さな</f><d certainty="positive">solid-part</d>を伴って見えます。<timex3 type="date">前回</timex3>と比較して<c>軽度増大</c>しており、<d certainty="suspicious">早期肺癌</d>の可能性があります。
+<a>両下葉</a>に<d certainty="positive">線状索状影</d>を認め<d certainty="suspicious">陳旧性炎症性変化</d>が疑われます。
+<a>縦隔や肺門</a>に<f>有意</f>な<d certainty="negative">リンパ節腫大</d>は指摘できません。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="44" title="11">
+<a>右肺尖部</a>には<a>胸壁に強く接する</a><d certainty="positive">分葉状腫瘤性病変</d>が認められ、ご指摘の<d certainty="suspicious">肺癌</d>が疑われます。
+<a>Th2,3椎体や右第2,3肋骨</a>には<d certainty="positive">骨破壊</d>が認められ、<d certainty="positive">直接浸潤</d>が示唆されます(<d>T4</d>)。
+<a>その他肺野</a>に<f>明らか</f>な<d certainty="negative">異常陰影指摘</d>できません。
+<a>上肺野</a><f>優位</f>の<d certainty="positive">気腫性変化</d>が認められます。
+<f>有意</f>な<d certainty="negative">縦隔リンパ節腫大</d>指摘できません。
+<f>有意</f>な<d certainty="negative">胸水</d>認めません。
+</article>
+<article id="45" title="01">
+<timex3 type="date">1年前</timex3>の<t-test state="executed">CT</t-test>と比較しました。
+<a>左肺上区S1+2</a>に<f>⻑径18mm大</f>の<d certainty="positive">partsolidGGN</d>は<a>内部</a>の<d certainty="positive">充実部分</d>は<timex3 type="date">前回</timex3>よりも<c>減少</c>しているもの
+の、<d certainty="positive">すりガラス影</d>のサイズは<timex3 type="date">前回</timex3>と比べ<c>縮小なく</c>、<f>僅か</f>に<d certainty="positive">胸膜陥入像</d>を伴っています。経過も併せ、<d certainty="suspicious">上皮内腺癌(AIS)、微小浸潤腺癌(MIA)などの腫瘍性病変</d>を考える所見です。
+<a>両肺尖部</a>に<d certainty="positive">bulla</d>、<a>右肺上葉・中葉や左肺下葉</a>に<d certainty="positive">小結節</d>、<a>両肺下葉</a>には<a>左側</a><f>優位</f>に<d certainty="positive">線状索状影</d>を認め、<d certainty="suspicious">陳旧性炎症性変化</d>を疑います。
+<d certainty="positive">食道裂孔ヘルニア</d>を認めます。
+<a>右部気管傍など縦隔</a>には<d certainty="positive">小リンパ節</d>を<f>散見</f>しますが、<f>有意</f>な<d certainty="negative">腫大</d>はありません。
+<d certainty="negative">胸水</d>は見られません。
+<d certainty="positive">脾腫</d>を認めます。
+その他、<a>撮像内の腹部</a>に特記所見ありません。
+Impression(記載箇所あれば)：<a>左肺上区</a><d certainty="positive">GGN</d>(<d certainty="suspicious">AISやMIA</d>など疑い)
+<d certainty="positive">食道裂孔ヘルニア</d>
+</article>
+<article id="46" title="01">
+<a>左肺上葉S1+2</a>に<f>⻑径18mm大</f>の<f>境界明瞭</f>な<d certainty="positive">GGN</d>が認められます。<a>辺縁境界</a>は<f>明瞭</f>で、<d certainty="positive">胸膜陥入像</d>を伴っています。<a>中心部</a>には<d certainty="suspicious">solidcore</d>が疑われます。総合的に<d certainty="suspicious">AAH/AIS</d>の可能性が考えられる所見ですので、<t-test state="other">各種検査</t-test>所見ともあわせた<cc state="other">精査</cc>を検討ください。
+<a>右肺下葉</a>には<f>境界不明瞭</f>な<d certainty="positive">すりガラス影</d>が認められます。こちらは<d certainty="suspicious">炎症性変化</d>かもしれませんが、あわせて<cc state="other">経過観察</cc>をお願いします。
+<a>左肺下葉</a>には<a>胸膜直下</a>に<d certainty="suspicious">陳旧性炎症性変化</d>と思われる<f>多角形</f>の<d certainty="positive">小結節</d>を認めます。
+<a>中葉舌区や左肺底部</a>には<d certainty="suspicious">炎症瘢痕</d>と思われる<d certainty="positive">索状影</d>を認めます。
+<a>肺尖部</a>には<d certainty="suspicious">陳旧性炎症性変化</d>と思われる<d certainty="positive">胸膜肥厚</d>を認めます。
+<a>上肺野</a>には<f>軽度</f>の<d certainty="positive">気腫性変化</d>を認めます。
+<a>その他肺野</a>に<f>粗大</f>な<d certainty="negative">腫瘤や浸潤影</d>は指摘できません。
+<f>有意</f>な<d certainty="negative">縦隔リンパ節腫大や胸水</d>認めません。
+</article>
+<article id="47" title="06">
+<a>右肺門部</a>には<d certainty="positive">腫瘤性病変</d>が認められ、<a>中間気管支幹</a>の<d certainty="positive">狭窄</d>を伴っています。既知の<d certainty="positive">肺癌部分</d>と思われます。これにより<a>右下葉</a>は<d certainty="positive">volume減少と無気肺</d>を呈しており、腫瘍径の評価は難しくなっています。
+<a>右肺門部リンパ節</a>は<d certainty="positive">腫瘍</d>と<f>一塊</f>となって<d certainty="suspicious">腫大</d>している可能性があります。<a>気管分岐下や上縦隔、左鎖骨上窩リンパ節</a>も<d certainty="positive">多数腫大</d>しており、いずれも<d certainty="positive">転移</d>が示唆されます(<d>N3</d>)。
+<a>その他肺野</a>に<f>明らか</f>な<d certainty="negative">異常陰影</d>指摘できません。
+<f>有意</f>な<d certainty="negative">胸水</d>認めません。
+<a>撮像範囲の肝、副腎</a>に<f>明らか</f>な<d certainty="negative">転移</d>は指摘できません。
+<a>肝</a>は<d certainty="positive">左葉腫大</d>し<f>辺縁鈍</f>ですが、<d certainty="suspicious">慢性肝障害</d>ありませんでしょうか。
+</article>
+<article id="48" title="03">
+<a>左舌区S4</a>に<f>⻑径28mm大</f>の<f>境界明瞭</f>な<d certainty="positive">不整形陰影</d>が認められます。<a>辺縁</a>には<d certainty="positive">spiculaや胸膜陥入像</d>を伴っており、<d>T1b</d>の<d certainty="positive">肺癌</d>として矛盾しません。<f>強く</f><d certainty="negative">胸膜浸潤を疑う所見</d>は指摘できません。
+<a>右肺下葉</a>には<d certainty="positive">不整形結節</d>が認められます。<d certainty="suspicious">炎症性変化</d>かもしれませんが、あわせて<cc state="other">経過観察</cc>をお願いします。
+<a>肺尖部</a>には<d certainty="positive">陳旧性炎症性変化と思われる胸膜肥厚</d>を認めます。
+<a>その他肺野</a>に<f>粗大</f>な<d certainty="negative">腫瘤や浸潤影</d>は指摘できません。
+<f>有意</f>な<d certainty="negative">縦隔リンパ節腫大や胸水</d>認めません。
+</article>
+<article id="49" title="11">
+<a>右肺尖部</a>に<f>大きな</f><d certainty="positive">腫瘤</d>を認めます<f>。既知</f>の<d certainty="positive">肺癌</d>と考えます。
+<d certainty="positive">腫瘤</d>が<f>接する</f><a>右第2，3肋骨および第2，3胸椎椎体</a>に<d certainty="positive">破壊</d>を伴っており、<d certainty="positive">浸潤</d>ありと考えます。
+T因子は<d>T4</d>と考えます。
+<a>肺野背景</a>には<f>中等度以上</f>の<d certainty="positive">気腫性変化</d>を認めます。
+<a>右肺中葉や両肺下葉の末梢</a>には<d certainty="positive">小結節</d>が<f>散在</f>しています。いずれも<f>矩形</f>を呈しており、<d certainty="suspicious">転移</d>よりも<d certainty="suspicious">陳旧性炎症性変化</d>を疑います。
+<a>肺門や縦隔、鎖骨上窩</a>に<d certainty="negative">病的腫大リンパ節</d>は認めません。
+N因子は<d>N0</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<a>撮像範囲</a>に<f>明らか</f>な<d certainty="negative">遠隔転移</d>は指摘できません。
+</article>
+<article id="50" title="12">
+<a>両側肺野</a>に<f>斑状</f>の<d certainty="positive">浸潤影およびすりガラス影</d>が<f>多発</f>しています。<a>右肺下葉S10</a>に<f>周囲よりやや大きな</f><d certainty="positive">結節影</d>を認めます。<d certainty="suspicious">粘液性腺癌</d>および<f>多数</f>の<d certainty="suspicious">肺内転移</d>を疑います。<d>T4</d>と思われます。
+<a>縦隔、肺門、腋窩</a>などに<d certainty="negative">病的リンパ節腫大</d>は認めません。
+<d certainty="negative">心拡大</d>みられません。
+<d certainty="negative">胸水</d>みられません。
+<t-test state="executed">骨条件</t-test>では、<a>Th8-11椎体</a>に<d certainty="positive">びまん性骨硬化像</d>を認めます。<d certainty="suspicious">骨転移</d>を疑います。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="51" title="01">
+<a>両側肺尖部</a>に<d certainty="positive">ブラ</d>を認めます。
+<a>左肺上葉S1+2</a>に<f>18×15mm</f>の<d certainty="positive">part-solidGGN</d>を認めます。<d certainty="positive">solid部分</d>の<f>サイズは不明</f>ですが、全体として<timex3 type="date">前回</timex3>画像と<c>サイズ変化はなく</c>、<d certainty="suspicious">肺腺癌</d>の疑いがあります。
+<a>縦隔、肺門、腋窩</a>に<d certainty="negative">病的リンパ節腫大</d>は見られません。
+<d certainty="negative">心拡大</d>ありません。
+<d certainty="negative">胸水</d>みられません。
+そのほか、<a>観察範囲</a>に<f>明らか</f>な異常は指摘できません。
+</article>
+<article id="52" title="02">
+<a>右肺下葉S6</a>に<f>比較的境界明瞭</f>な<d certainty="positive">すりガラス状結節</d>を認めます。<f>長径は12mm</f>です。<timex3 type="date">前回</timex3>は<f>長径9mm</f>ですので、<timex3 type="duration">1年</timex3>の経過で<c>軽度増大</c>しています。<d certainty="positive">濃度の高い部分</d>を<f>内包</f>しており、<d certainty="suspicious">炎症性変化</d>よりも<d certainty="suspicious">高分化腺癌</d>の可能性が高いと考えます。<d certainty="suspicious">肺癌</d>とした場合、T因子は<d>T1a</d>と考えます。
+同病変は<a>胸膜とは離れて</a>います。
+<d certainty="negative">肺転移を疑う病変</d>は指摘できません。
+<a>両肺下葉背側</a>には<d certainty="positive">陳旧性炎症性変化と思われる索状影</d>を認めます。
+<a>縦隔・肺門リンパ節</a>に<d certainty="negative">病的腫大</d>は認めません。N因子は<d>N0</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+M因子は判断できず、<d certainty="positive">MX</d>です。
+</article>
+<article id="53" title="06">
+<a>右肺下葉</a>に<f>境界不明瞭</f>な<d certainty="positive">腫瘤性病変</d>があります。ご指摘の<d certainty="positive">肺癌</d>と考えます。<a>腫瘤内</a>を<a>中間幹</a>が<f>通過</f>し、<d certainty="positive">閉塞</d>しています。<d certainty="positive">浸潤</d>しています。<a>右肺中葉、下葉の一部</a>に<d certainty="positive">無気肺</d>を呈しています。
+<d certainty="positive">＃6、＃2L、＃7、＃3p、＃4L、＃5リンパ節腫大</d>を認め、<d certainty="positive">転移リンパ節</d>と考えます。<d certainty="positive">腫瘤と＃7リンパ節</d>は<f>一塊</f>となっています。
+<d certainty="positive">気管支浸潤</d>があり<d>T2</d>相当、<d certainty="positive">対側縦隔リンパ節転移</d>があり、<d>N3</d>相当と考えます。
+</article>
+<article id="54" title="02">
+<a>右下葉S6</a>に<f>⻑径12mm</f>の<d certainty="positive">すりガラス影</d>を認めます。<a>内部</a>に<f>()mm程度</f>の<d certainty="positive">充実部</d>を認め、<d certainty="suspicious">部分充実型結節(part-solidGGN)</d>に相当する病変と思われます。<d certainty="suspicious">上皮内腺癌（AIS）、微少浸潤性腺癌（MIA）、置換型腺癌（LPA）</d>が鑑別に挙がります。T分類で<d>T1mi</d>相当と思われます。<f>明らか</f>な<d certainty="negative">副腫瘍結節を疑うような肺内結節</d>を指摘できません。
+</article>
+<article id="55" title="11">
+<a>右肺尖部</a>を<f>占拠</f>する<d certainty="positive">腫瘤</d>があり，既知の<d certainty="positive">肺癌</d>と考えます。
+<a>Th2椎体およびTh2右棘突起，Th3椎体，右第2〜3肋⾻</a>を<d certainty="positive">破壊</d>しており，<a>胸壁および椎体</a>への<d certainty="positive">浸潤</d>と考えます。
+<a>右鎖⾻下動脈にも近接</a>していますが，<a>⼤⾎管</a>への<d certainty="negative">浸潤</d>は<f>明らか</f>ではありません。
+<d certainty="negative">領域リンパ節腫⼤</d>や，<a>撮像内</a>での<d certainty="negative">遠隔転移</d>は<f>明らか</f>ではありません。
+<a>背景肺</a>には<d certainty="positive">気腫</d>が<f>⽬⽴ち</f>ます。
+</article>
+<article id="56" title="12">
+<a>右下葉</a>に<f>不整</f>な<d certainty="positive">腫瘤影</d>を認め、<d certainty="positive">spiculaや胸膜嵌入像</d>を伴っています。<d certainty="suspicious">肺癌</d>が疑われます。
+<a>両肺野</a>に<f>びまん性</f>に<d certainty="positive">結節影</d>を認めます。<d certainty="suspicious">多発肺転移</d>の可能性があります。鑑別としては<d certainty="suspicious">粟粒結核</d>が挙がります。既往などご確認ください。
+<a>縦隔や肺門</a>に<f>有意</f>な<d certainty="negative">リンパ節腫大</d>は指摘できません。
+<d certainty="negative">胸水</d>はありません。
+<a>肝</a>は<f>軽度肝表凹凸不整</f>、<f>辺縁鈍</f>で<d certainty="positive">慢性肝障害</d>が示唆されます。
+<a>椎体や骨盤骨</a>に<d certainty="positive">硬化像</d>を<f>散見</f>し、<d certainty="suspicious">多発骨転移</d>の可能性があります。
+</article>
+<article id="57" title="02">
+【<t-test state="executed">胸部単純CT</t-test>】
+<timex3 type="date">1年前</timex3>の<t-test state="executed">CT</t-test>と⽐較しました。
+<a>右肺下葉</a>に<f>12mm⼤</f>の<d certainty="positive">pureGGN</d>がみられ，<timex3 type="date">1年前</timex3>と⽐べ<f>3mm程度</f><c>増⼤</c>しています。<d certainty="positive">充実性成分</d>は<f>はっきりしません</f>。
+<d certainty="suspicious">異型腺腫様過形成または微⼩浸潤腺癌</d>なども鑑別にあがる所⾒であり，引き続き慎重な<t-test state="other">follow up</t-test>が望まれます。
+<a>肺野</a>条件のみの撮像ですが，評価可能な範囲では<d certainty="negative">有意リンパ節腫⼤</d>を認めません。
+<a>肝，副腎，⾻</a>に<f>あきらか</f>な<d certainty="negative">腫瘤</d>を認めません。
+</article>
+<article id="58" title="13">
+<a>背景肺</a>には<d certainty="positive">気腫性変化</d>を認めます。
+<a>左下葉末梢</a>に<f>⻑径78mm大</f>の<d certainty="positive">腫瘤性病変</d>を認め、<d certainty="positive">空洞</d>を伴っています。<d certainty="suspicious">肺癌</d>が疑われます。<a>胸膜と広く接し</a>ており<d certainty="suspicious">浸潤</d>の可能性があります。<a>中枢側</a>にも<f>散在性</f>に<d certainty="positive">結節影</d>を認め、<a>気管支周囲</a>にも<d certainty="positive">軟部影</d>を認め、<a>気管支</a>は<d certainty="positive">狭窄</d>しています。こちらも<d certainty="suspicious">肺癌病変</d>が疑われます。
+<a>左肺門や縦隔</a>に<d certainty="positive">腫大リンパ節</d>を認め<d certainty="suspicious">転移</d>が疑われます。<a>対側縦隔</a>への<d certainty="negative">転移</d>はなさそうです。
+<d certainty="negative">胸水</d>はありません。
+</article>
+<article id="59" title="03">
+<a>左肺舌区</a>に<f>比較的境界明瞭</f>な<f>濃い</f><d certainty="positive">すりガラス状結節</d>を認めます。既知の<d certainty="positive">肺癌</d>と考えます。
+<f>長径は28mm</f>です。T因子は<d>T1</d>と考えます。
+同病変は<a>胸膜とは離れて</a>います。
+<a>右肺下葉S6や左肺尖部</a>に<f>小さい</f><d certainty="positive">すりガラス影</d>を認めます。これらも<d certainty="suspicious">肺癌</d>の可能性と<d certainty="suspicious">炎症性変化</d>の可能性いずれも考えられます。<cc state="other">サイズフォロー</cc>をお願いします。
+<d certainty="negative">肺転移を疑う病変</d>は指摘できません。
+<a>縦隔・肺門リンパ節</a>に<d certainty="negative">病的腫大</d>は認めません。N因子は<d>N0</d>と考えます。
+<d certainty="negative">胸水貯留</d>はありません。
+<f>強く</f><d certainty="negative">骨転移を疑うような骨破壊や腫瘤性病変</d>は認めません。
+他のM因子は判断できず、<d>MX</d>です。
+</article>
+<article id="60" title="01">
+【<t-test state="executed">胸部単純CT</t-test>】
+<timex3 type="date">1年前</timex3>の<timex3 type="date">前回</timex3><t-test state="executed">CT</t-test>と⽐較しました。
+<a>左肺上葉S1+2</a>には<f>⻑径18mm⼤</f>の<d certainty="positive">すりガラス結節</d>がみられ，<d certainty="positive">充実性成分および気管⽀拡張</d>を伴ってい
+ます。<timex3 type="date">前回</timex3>とは<c>著変ありません</c>が，引き続き<d certainty="suspicious">異形成や早期肺腺癌は疑われる所⾒</d>であり，慎重な<cc state="other">followup</cc>が望まれます。
+<a>両肺尖部</a>に<d certainty="positive">気腫性変化</d>を認めます。
+<a>肺野</a>条件のみの撮影ですが，<d certainty="negative">リンパ節腫⼤</d>は<f>はっきりしません</f>。<d certainty="negative">胸⽔</d>はありません。
+</article>
+<article id="61" title="13">
+<a>左肺下葉</a>に<f>⻑径78mm⼤</f>の<d certainty="positive">腫瘤</d>があり，既知の<d certainty="positive">肺癌</d>と考えます。
+<a>胸壁に広く接し</a>ており，<a>胸壁脂肪織</a>の<f>消失</f>も認められ，<a>胸壁</a>に<d certainty="suspicious">浸潤</d>している可能性もあります。
+<a>左肺下葉中枢側</a>には<d certainty="suspicious">satellitelesion</d>と思われる<d certainty="positive">結節</d>を<f>複数</f>認めます。
+<d certainty="positive">左肺⾨部，気管分岐下，左下部気管傍リンパ節</d>が<d certainty="positive">腫⼤</d>しており，<d certainty="positive">リンパ節転移</d>と考えます。
+<a>撮像内</a>で<a>肝，⾻</a>には<d certainty="negative">転移</d>を認めません。<a>副腎</a>は撮像範囲外です。
+</article>
+<article id="62" title="11">
+<a>肺野</a>には背景に<d certainty="positive">慢性肺気腫の所見</d>が認められます。
+<a>右肺尖部</a>に<f>分葉状</f>の<d certainty="positive">腫瘤</d>を認めます。<a>右肺尖部胸膜広範囲に接し</a>ており<a>右第2、3胸椎右側と右第2,3肋骨</a>に<d certainty="positive">脱灰所見</d>が認められます。<d certainty="suspicious">肺癌の胸椎、肋骨浸潤</d>が疑われます。<a>第2胸椎レベル</a>では<a>脊柱管内</a>への<d certainty="suspicious">腫瘍進展</d>が疑われます。<a>両側肺野</a>には<d certainty="suspicious">副腫瘍結節</d>を疑う<f>多数</f>の<d certainty="positive">結節</d>が認められます。T分類で<d>T4</d>相当と思われます。
+<f>有意なサイズ</f>の<f>類円形</f>の<d certainty="negative">鎖骨上窩、縦隔、肺門部リンパ節腫大</d>を指摘できません。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>撮像範囲の上腹部臓器</a>に<f>有意</f>な異常を指摘できません。
+</article>
+<article id="63" title="09">
+<a>両側肺門・縦隔</a>の<d certainty="positive">腫大リンパ節</d>を認め、<a>右肺門</a>には<a>気管分岐下</a>の<d certainty="positive">縦隔リンパ節腫大</d>と<f>一塊</f>となった<f>4.3cm大</f>の<d certainty="positive">腫瘤</d>を認め、<d certainty="positive">小細胞肺癌の多発転移</d>として合致します。<d certainty="positive">右肺門部腫瘤</d>により<a>下葉気管支</a>は<d certainty="positive">狭小化</d>し、<a>右肺下葉背側</a>には<d certainty="positive">Aspirationpneumonia</d>を認めます。またその<a>腹側</a>には<a>同一肺葉内</a>の<d certainty="suspicious">副結節を疑う所見</d>も見られます(<d>cT3N3</d>)。
+その他、<a>肺・縦隔</a>に特記所見ありません。<d certainty="negative">胸水</d>はありません。
+<a>肝門部や腹腔動脈周囲のリンパ節</a>も<d certainty="positive">腫大</d>しており、こちらも<d certainty="suspicious">転移</d>を疑います。他にも<a>右前胸部や両側乳腺内、左背部皮下、肝や右副腎</a>には<d certainty="suspicious">転移</d>を疑う<f>複数</f>の<d certainty="positive">腫瘤</d>を認めます(<d>M1c</d>)。
+<a>骨盤内右側に</a>は<f>○×○×○cm大</f>の<d certainty="positive">腫瘤</d>あり、<d certainty="suspicious">右付属器腫瘤や漿膜下筋腫</d>などを疑います。<a>左付属器</a>は<d certainty="suspicious">軽度腫大</d>がありそうですが、<f>病的なものではなさそう</f>です。
+その他、<a>腹部</a>に特記所見ありません。<d certainty="negative">腹水</d>は認めません。
+Impression(記載箇所あれば)：<d certainty="suspicious">右肺門部小細胞肺癌</d>(<d>cT3N3M1c</d>)疑い
+</article>
+<article id="64" title="02">
+<a>右肺下葉S6</a>に<f>境界不明瞭</f>な<f>約12mm</f>の<d certainty="positive">すりガラス状結節</d>を認めます。<timex3 type="date">1年前</timex3>の画像と比較して、<f>約9mm→約12mm</f>と<c>明らかに増大</c>しています。<d certainty="negative">微小浸潤部分</d>は<f>明瞭でありません</f>が、<d certainty="suspicious">微小浸潤性腺癌（MIA）</d>を疑います。
+</article>
+<article id="65" title="06">
+<d certainty="positive">右下葉無気肺</d>を認めます。<a>右下葉気管支</a>は<d certainty="positive">閉塞</d>しており<a>下葉気管支近位部</a>には<d certainty="suspicious">肺癌</d>を疑う<d certainty="positive">腫瘤</d>が認められ、<a>気管支周囲</a>、<d certainty="positive">縦隔リンパ節腫大</d>と<f>一塊</f>となっているようです。<d certainty="positive">無気肺</d>と<d certainty="positive">腫瘍</d>の<a>境界</a>の<f>判定が困難</f>で、正確な<d certainty="positive">腫瘍</d>の<f>サイズが評価できません</f>。<d certainty="negative">縦隔浸潤</d>を示唆する所見を認めません。<a>肺野</a>には<d certainty="negative">副腫瘍結節を疑う病変</d>を指摘できません。T分類で<d>T2</d>相当と思われます。
+<a>#1L,#2R,#2L,#4R,#4L,#5,#6,#7リンパ節</a>が<f>類円形</f>に<d certainty="positive">腫大</d>しており<d certainty="suspicious">転移</d>を疑います。N分類で<d>N3</d>相当と思われます。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>撮像範囲の上腹部臓器</a>に<f>有意</f>な異常を指摘できません。
+</article>
+<article id="66" title="13">
+<a>左肺下葉S9</a>に<f>78mm</f>の<d certainty="positive">腫瘤</d>を認めます。<a>辺縁</a>は<d certainty="positive">ノッチ</d>を認め、<a>内部</a>に<d certainty="positive">空洞</d>を認めます。<a>空洞内壁</a>は<f>やや不整</f>です。<a>同肺葉内</a>に<f>連続</f>する<f>不整</f>な<d certainty="positive">結節</d>を<f>数カ所</f>認めます。<d certainty="positive">空洞形成</d>を伴う<d certainty="suspicious">肺野型肺癌</d>を疑います。<a>胸壁に広く接し</a>ており、<a>胸壁脂肪織</a>が<f>消失</f>しています。<d>T4</d>と思われます。
+<d certainty="positive">左肺門部リンパ節や気管分岐下リンパ節</d>は<d certainty="positive">腫脹</d>しており、<d certainty="suspicious">リンパ節転移</d>を疑います。
+<d certainty="negative">心拡大</d>みられません。
+<d certainty="negative">胸水</d>みられません。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="67" title="01">
+<a>左肺上葉</a>に<f>境界不明瞭</f>な<d certainty="positive">限局性すりガラス影</d>を認めます。<a>内部</a>に<d certainty="positive">充実部分</d>を認め、<d certainty="positive">partsolidGGN</d>と考えます。画像上、<d certainty="suspicious">肺癌</d>を疑います。
+<f>一部</f>、<d certainty="positive">胸膜陥入</d>を認めますが、<f>明か</f>な<d certainty="negative">胸膜浸潤</d>は指摘出来ません。
+<d certainty="positive">充実部分</d>は<f>1cm以下</f>であり、<d>T1a</d>相当と考えます。
+</article>
+<article id="68" title="09">
+<a>右肺中下葉気管支</a>は<d certainty="positive">閉塞</d>しており、<a>右肺門部</a>に<d certainty="positive">リンパ節</d>と<f>一塊</f>になった<f>43mm</f>の<d certainty="positive">腫瘤</d>を認めます。<d certainty="suspicious">肺門部肺癌</d>を疑います。その<a>末梢側</a>に<f>楕円形</f>の<f>不整</f>な<d certainty="positive">腫瘤</d>を<f>2カ所</f>認めており、<d certainty="positive">肺内転移</d>を認めます。<a>右肺下葉辺縁</a>には<d certainty="positive">すりガラス影</d>を伴っており、<f>随伴性</f>の<d certainty="positive">肺炎像</d>と思われます。
+<a>右肺上葉</a>にも<d certainty="positive">結節影</d>を認めますが、<timex3 type="date">以前</timex3>の<t-test state="executed">検診CT</t-test>でも認めており、<timex3 type="date">前回</timex3>と<c>著変ありません</c>。<d certainty="suspicious">良性結節</d>を疑います。
+<a>気管分岐周囲リンパ節、大動脈傍リンパ節、左鎖骨上窩リンパ節</a>に<d certainty="positive">腫大したリンパ節</d>を認めており、<d certainty="suspicious">リンパ節転移</d>を疑います。<d>N3</d>と思われます。
+<a>右乳房</a>に<f>1カ所</f>、<a>左乳房</a>に<f>4カ所</f>の<d certainty="positive">結節</d>を認めます。<d certainty="suspicious">乳房転移</d>を疑います。
+<a>肝内</a>に<f>多数</f>の<f>濃染不良</f>な<d certainty="positive">結節</d>を認めており、<d certainty="suspicious">多発肝転移</d>を疑います。
+<a>右副腎</a>に<d certainty="positive">結節</d>を認めており、<d certainty="suspicious">副腎転移</d>を疑います。
+<a>膵、脾、腎</a>に<f>有意</f>な所見はありません。
+<a>右上腹部皮下</a>にも<d certainty="positive">結節</d>を認めており、<d certainty="suspicious">皮膚転移</d>を疑います。
+その他、<a>観察範囲内</a>に<f>明らか</f>な異常を指摘できません。
+</article>
+<article id="69" title="02">
+<a>左肺下葉S6</a>に<d certainty="positive">part-solidGGN</d>を認めます。<timex3 type="date">前回</timex3><t-test state="executed">CT</t-test>と比較して、サイズは<f>9mm→12mm</f>と<c>増大</c>しています。<d certainty="suspicious">肺腺癌</d>（<d>T1</d>）を疑います。
+その他、<a>肺野</a>に<f>明らか</f>な<d certainty="negative">結節影</d>は指摘できません。
+<a>縦隔、肺門、腋窩</a>などに<d certainty="negative">病的リンパ節腫大</d>を認めません。
+<d certainty="negative">心拡大</d>ありません。
+<d certainty="negative">胸水</d>ありません。
+その他、<f>明らか</f>な異常を認めません。
+</article>
+<article id="70" title="09">
+<f>⻑径43mm</f>の<d certainty="positive">右肺門部腫瘤</d>を認めます。
+<a>右下葉</a>に<d certainty="positive">不整形結節</d>を認めます。<timex3 type="date">10年前</timex3>の<t-test state="executed">CT</t-test>ではこの<d certainty="negative">病変</d>は指摘できず、<d certainty="suspicious">副腫瘍結節</d>を疑います。<a>右上葉S1</a>に<f>辺縁平滑</f>な<d certainty="positive">結節</d>を認めます。<timex3 type="date">10年前</timex3>の<t-test state="executed">CT</t-test>と<c>著変なく</c>、<d certainty="suspicious">良性結節</d>を疑います。T分類で<d>T3</d>相当と思われます。
+<a>右下葉</a>に<d certainty="positive">浸潤影</d>が認められ、<d certainty="suspicious">肺炎併発</d>を疑います。
+<a>左鎖骨上窩、両側縦隔、右肺門部</a>に<f>多数</f>の<d certainty="positive">リンパ節腫大</d>を認め、<d certainty="suspicious">転移</d>を疑います。N分類で<d>N3相当</d>と思われます。
+<d certainty="negative">胸水貯留</d>を認めません。
+<a>両側乳房、胸壁皮下、肝、右副腎、骨盤腔右側</a>に<d certainty="positive">多発結節</d>を認めます。<d certainty="suspicious">乳房、皮下、肝、右副腎、右卵巣転移</d>を疑います。<d certainty="negative">骨転移を疑う溶骨性、骨硬化性変化</d>を指摘できません。M分類で<d>M1c</d>相当と思われます。
+<a>肝門部</a>や<d certainty="positive">傍大動脈リンパ節</d>が<f>多数</f><d certainty="positive">腫大</d>、<d certainty="suspicious">リンパ節転移</d>を疑います。
+<a>胆、膵、腎、脾</a>に<f>有意</f>な異常を指摘できません。<d certainty="negative">腹水貯留</d>を認めません。
+そのほか、<a>撮像範囲</a>に<f>有意</f>な異常を指摘できません。
+</article>
+<article id="71" title="12">
+【<t-test state="executed">胸部単純CT</t-test>】
+<a>両肺</a>には<f>多数</f>の<d certainty="positive">結節</d>が認められ，<d certainty="positive">肺癌</d>および<a>両側</a>の<d certainty="positive">多発肺内転移</d>と考えます。
+<d certainty="negative">有意リンパ節腫⼤</d>は指摘できません。
+<a>Th3,4,8〜11,L4,5椎体</a>に<d certainty="positive">⾻硬化性変化</d>がみられ，<d certainty="positive">多発⾻転移</d>と考えます。
+<a>肝，副腎</a>には<d certainty="negative">転移</d>を認めません。
+</article>
+</articles>
+</root>

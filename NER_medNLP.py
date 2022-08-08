@@ -1,5 +1,5 @@
 # %%
-import from_XML_to_json_en as XtC
+import from_XML_to_json as XtC
 import itertools
 import random
 import json
@@ -12,8 +12,6 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import BertJapaneseTokenizer, BertForTokenClassification
 import pytorch_lightning as pl
-
-import sys
 
 
 # %%
@@ -62,6 +60,7 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
         # 固有表現の前後でtextを分割し、それぞれのラベルをつけておく。
         splitted = [] # 分割後の文字列を追加していく
         position = 0
+        
         for entity in entities:
             start = entity['span'][0]
             end = entity['span'][1]
@@ -80,6 +79,7 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
             label = s['label']
             if label > 0: # 固有表現
                 # まずトークン全てにI-タグを付与
+                # 番号順O-tag:0, B-tag:1~タグの数，I-tag:タグの数〜
                 labels_splitted =  \
                     [ label + self.num_entity_type ] * len(tokens_splitted)
                 # 先頭のトークンをB-タグにする
@@ -100,7 +100,9 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
         ) 
 
         # ラベルに特殊トークンを追加
+        # max_lengthで切り取って，その前後に[CLS]と[SEP]を追加するためのラベルを入れる
         labels = [0] + labels[:max_length-2] + [0]
+        # max_lengthに満たない場合は，満たない分を後ろ側に追加する
         labels = labels + [0]*( max_length - len(labels) )
         encoding['labels'] = labels
 
@@ -128,23 +130,18 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
                 tokens_original.extend([
                     token.replace('##','') for token in tokens_word
                 ])
-        flag = False
+
         # 各トークンの文章中での位置を調べる。（空白の位置を考慮する）
         position = 0
         spans = [] # トークンの位置を追加していく。
         for token in tokens_original:
-            
+            l = len(token)
             while 1:
-                if token == 'memoir':
-                    token = 'mémoir'
-                    
-                l = len(token)                    
-                if token != text[position:position+l].lower():
+                if token != text[position:position+l]:
                     position += 1
                 else:
                     spans.append([position, position+l])
                     position += l
-                    
                     break
 
         # 符号化を行いBERTに入力できる形式にする。
@@ -172,38 +169,30 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
         """
         Viterbiアルゴリズムで最適解を求める。
         """
-        # print(np.array(scores_bert).shape)
         m = 2*num_entity_type + 1
         penalty_matrix = np.zeros([m, m])
-        
         for i in range(m):
             for j in range(1+num_entity_type, m):
                 if not ( (i == j) or (i+num_entity_type == j) ): 
                     penalty_matrix[i,j] = penalty
         path = [ [i] for i in range(m) ]
+        scores_path = scores_bert[0] - penalty_matrix[0,:]
+        scores_bert = scores_bert[1:]
+
         
-        
-        scores_path = scores_bert[0] - penalty_matrix[0,:] #最初はIを取らない　
-        scores_bert = scores_bert[1:] #2トークン目以降について
+
         for scores in scores_bert:
             assert len(scores) == 2*num_entity_type + 1
             score_matrix = np.array(scores_path).reshape(-1,1) \
                 + np.array(scores).reshape(1,-1) \
-                - penalty_matrix #最初のトークン，それ以降のトークン，
-            # print(np.array(scores_path).reshape(-1,1))
-            # print(np.array(scores).reshape(1,-1))
-            # print(penalty_matrix)
-            # print(score_matrix)
+                - penalty_matrix
             scores_path = score_matrix.max(axis=0)
-            # print(scores_path)
             argmax = score_matrix.argmax(axis=0)
-            # print(argmax)
             path_new = []
             for i, idx in enumerate(argmax):
                 path_new.append( path[idx] + [i] )
             path = path_new
-        #     print(path)
-        # print(scores_path)
+
         labels_optimal = path[np.argmax(scores_path)]
         return labels_optimal
 
@@ -218,7 +207,7 @@ class NER_tokenizer_BIO(BertJapaneseTokenizer):
         # 特殊トークンに対応する部分を取り除く
         scores = [score for score, span in zip(scores, spans) if span[0]!=-1]
         spans = [span for span in spans if span[0]!=-1]
-
+        
         # Viterbiアルゴリズムでラベルの予測値を決める。
         labels = self.Viterbi(scores, num_entity_type)
 

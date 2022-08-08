@@ -55,10 +55,7 @@ def entities_from_xml(file_name, attrs = True):#attrs=属性を考慮するか�
             pos2 = 0
             for child in elem:#取り出した要素に対して，一つずつ処理する
                 #（タグのないものについても要素として取得されるので，位置(pos)はずれない）                
-                # text = unicodedata.normalize('NFKC', child.string)#正規化
-                text = child.string
-                if text is None:
-                    continue
+                text = unicodedata.normalize('NFKC', child.string)#正規化
                 text_raw = child.string#正規化する前のテキスト保存
                 #text = text.replace('。', '.')#句点を'.'に統一, sentenceの分割に使うため．
                 pos2 += len(text)#終了位置を記憶
@@ -143,20 +140,12 @@ def create_dataset_no_tags(articles):#タグがないxmlファイルからテキ
 
 # %%
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-i", '--input_file', nargs='?',
-            default='./training_data/MedTxt-RR-EN-training.xml', help="input file path")
-    parser.add_argument("-o", '--output_file', nargs='?',
-            default='./training_data/subtask1-RR-text_with_span.json', help="output file path")
-    args = parser.parse_args()
-    
-    # input_file = './training_data/' + 'MedTxt-RR-EN-training.xml'
-    input_file = args.input_file
+    input_file = './training_data/' + 'MedTxt-RR-JA-training.xml'
     articles, __, entities, __ = entities_from_xml(input_file, attrs=True)#属性考慮するならTrue
     sentences = to_sentences(articles)
     dataset_t = sentence_with_NE(sentences, entities)
 
-    json_file = args.output_file
+    json_file = './training_data/' + 'subtask1-RR-text_with_span.json'
     with open(json_file, 'w') as f:
         json.dump(dataset_t, f, ensure_ascii=False)
 
@@ -164,3 +153,12 @@ if __name__ == '__main__':
 
 # %%
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-i", '--input_file', nargs='?', type=argparse.FileType("r"),
+            default=sys.stdin, help="input file path")
+    parser.add_argument("-o", '--output_file', nargs='?', type=argparse.FileType("w"),
+            default=sys.stdout, help="output file path")
+    parser.add_argument("-m", '--model_name', default='BERT', help="model file directory")
+    parser.add_argument("-n", '--normalizer', default='dict', help="dictionary file directory")
+    parser.add_argument("-f", '--output_format', default='xml', help="output format (xml or dict). default is xml")
+    args = parser.parse_args()

@@ -1,6 +1,6 @@
 
 # %%
-import from_XML_to_json_en as XtC
+import from_XML_to_json as XtC
 import NER_medNLP as ner
 import itertools
 import random
@@ -14,8 +14,6 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import BertJapaneseTokenizer, BertForTokenClassification
 import pytorch_lightning as pl
-
-import argparse
 
 
 
@@ -44,17 +42,18 @@ def create_dataset(tokenizer, dataset, max_length):
         encoding = tokenizer.encode_plus_tagged(
             text, entities, max_length=max_length
         )
+        print(encoding)
         encoding = { k: torch.tensor(v) for k, v in encoding.items() }
         dataset_for_loader.append(encoding)
     return dataset_for_loader
 
 # %%
-def training(model_name: str, dataset_train, dataset_val, epoch):
+def training(model_name: str, dataset_train, dataset_val):
     # トークナイザのロード
     # 日本語学習済みモデル
     # 日本語学習済みモデル
     frequent_tags_attrs, _, _ = XtC.select_tags(attrs=True) #タグ取得  
-    MODEL_NAME = 'bert-base-uncased'
+    MODEL_NAME = 'cl-tohoku/bert-base-japanese-whole-word-masking'
     # 固有表現のカテゴリーの数`num_entity_type`を入力に入れる必要がある。
     tokenizer = ner.NER_tokenizer_BIO.from_pretrained(
         MODEL_NAME,
@@ -86,8 +85,8 @@ def training(model_name: str, dataset_train, dataset_val, epoch):
     )
 
     trainer = pl.Trainer(
-        gpus=1,#None, if you use GPU, gpus=1
-        max_epochs=epoch,
+        gpus=1,
+        max_epochs=20,
         callbacks=[checkpoint]
     )
 
@@ -104,18 +103,10 @@ def training(model_name: str, dataset_train, dataset_val, epoch):
 
 # %%
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-i", '--input_file', nargs=1,
-            default='./training_data/subtask1-CR-text_with_span.json', help="input file path")
-    parser.add_argument("-o", '--output_filename', nargs=1,
-            default='model_CR', help="output filename")
-    parser.add_argument("-e", '--epoch', nargs=1, type = int, 
-            default=50, help="epoch")
-    args = parser.parse_args()
-    
-    filepath = args.input_file
-    epoch = args.epoch
+    filepath = './training_data/' + 'subtask1-RR-text_with_span.json'
     dataset_train, dataset_val = load_json(filepath)
-    training(args.output_filename, dataset_train, dataset_val, epoch)
+    training('model_RR', dataset_train, dataset_val)
+
+# %%
 
 # %%
